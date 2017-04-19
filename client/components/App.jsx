@@ -122,16 +122,17 @@ class App extends React.Component {
   handleUpdateContact = (contact) => {
     const { contacts } = this.state;
     const idx = contacts.findIndex(c => c.id === contact.id);
+    const updatedContact = Object.assign(contacts[idx], contact);
 
     this.setState({
       contacts: [
         ...contacts.slice(0, idx),
-        Object.assign(contacts[idx], contact),
+        updatedContact,
         ...contacts.slice(idx + 1)
       ]
     }, this.persistState);
 
-    axios.put('http://localhost:3000/contacts/' + contact.id, contact);
+    axios.put('http://localhost:3000/contacts/' + contact.id, updatedContact);
   };
 
   render() {

@@ -2,9 +2,10 @@
   "contacts": [
     {
       "id": "6114086a-e78d-4186-bddc-f888cdab6340",
-      "name": "Oie Tracey",
-      "phone": "+7 900 90",
-      "email": "ozzie@gmail.com"
+      "name": "Lady",
+      "phone": "+7 900 900 90 90",
+      "email": "ozzie@gmail.com",
+      "avatar": "http://i.pravatar.cc/500?img=1"
     },
     {
       "id": "fcba021d-6562-42fa-86b7-014b70dbdf04",
