@@ -1,0 +1,73 @@
+{
+  "contacts": [
+    {
+      "id": "6114086a-e78d-4186-bddc-f888cdab6340",
+      "name": "Oie Tracey",
+      "phone": "+7 900 90",
+      "email": "ozzie@gmail.com"
+    },
+    {
+      "id": "fcba021d-6562-42fa-86b7-014b70dbdf04",
+      "name": "Raymond Ellery",
+      "phone": "+7 900 900 90 91",
+      "email": "raymond@gmail.com",
+      "avatar": "http://i.pravatar.cc/500?img=2"
+    },
+    {
+      "id": "c6fdc41b-dbc6-4c41-9916-35d9e204b4f9",
+      "name": "Kev Crawford",
+      "phone": "+7 900 902 90 90",
+      "email": "crawford@gmail.com",
+      "avatar": "http://i.pravatar.cc/500?img=3"
+    },
+    {
+      "id": "d9cc8e05-dab2-42d9-80ba-692e7785fbdc",
+      "name": "Mitch Titus",
+      "phone": "+7 930 900 90 90",
+      "email": "mitch@gmail.com",
+      "avatar": "http://i.pravatar.cc/500?img=4"
+    },
+    {
+      "id": "943464a5-3375-4955-8f7f-9cd3f8da70bb",
+      "name": "Coby Brigham",
+      "phone": "+7 905 900 90 90",
+      "email": "coby@gmail.com",
+      "avatar": "http://i.pravatar.cc/500?img=5"
+    },
+    {
+      "id": "aef2f2d6-fbf4-4835-a52b-7342bf926fb4",
+      "name": "Garey Marty",
+      "phone": "+7 900 940 90 90",
+      "email": "garey@gmail.com",
+      "avatar": "http://i.pravatar.cc/500?img=6"
+    },
+    {
+      "id": "3be6cbcd-4eb4-402c-be8c-1cdaaca5edf8",
+      "name": "Lesley Quincey",
+      "phone": "+7 900 970 90 90",
+      "email": "lesley@gmail.com",
+      "avatar": "http://i.pravatar.cc/500?img=7"
+    },
+    {
+      "id": "b8427b30-b014-4773-bedb-88e13d6ff18d",
+      "name": "Jerry Chance",
+      "phone": "+7 900 980 90 90",
+      "email": "jerry@gmail.com",
+      "avatar": "http://i.pravatar.cc/500?img=8"
+    },
+    {
+      "id": "ad3368af-8869-4aa2-b974-ae1071170de1",
+      "name": "Stephen Cuthbert",
+      "phone": "+7 900 904 90 90",
+      "email": "stephen@gmail.com",
+      "avatar": "http://i.pravatar.cc/500?img=9"
+    },
+    {
+      "id": "12e2aaca-c5fb-41bb-81f6-e99dc2fa4869",
+      "name": "London Damion",
+      "phone": "+7 900 930 90 90",
+      "email": "london@gmail.com",
+      "avatar": "http://i.pravatar.cc/500?img=10"
+    }
+  ]
+}
